@@ -9,3 +9,7 @@
 .p-2{
   flex-grow: 1;
 }
+#root{
+  resize: both; /* Allow both horizontal and vertical resizing */
+  overflow: auto; 
+}
